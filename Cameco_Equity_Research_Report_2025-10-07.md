@@ -1,9 +1,9 @@
 ---
-**Equity Research Report: Cameco Corporation (NYSE: CCJ)**
-**Date:** October 7, 2025
-**Recommendation: BUY**
-**Price Target: $100 - $110**
-**Current Price (as of analysis):** ~$85.29
+Equity Research Report: Cameco Corporation (NYSE CCJ)
+Date: October 7, 2025
+Recommendation: BUY
+Price Target: $100 - $110
+Current Price (as of analysis): ~$85.29
 ---
 
 ### **Part 1: Fundamental Business & Financial Health Analysis**
