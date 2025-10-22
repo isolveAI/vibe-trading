@@ -115,7 +115,7 @@ steps:
       - '-t'
       - '${_REGION}-docker.pkg.dev/${_PROJECT_ID}/${_SERVICE_NAME}-repo/${_SERVICE_NAME}:latest'
       - '.'
-    dir: 'vibe-trading'
+    dir: '.'
 
   - name: 'gcr.io/cloud-builders/docker'
     args:
